@@ -27,3 +27,10 @@ This repository serves as a homework 5 for our team as part of our coursework in
 
 
 To install this project, clone the repository, install necessary dependencies, and follow the setup instructions detailed in the README.md file.
+
+## Snaps
+
+### Webpage - OurTeam.html
+
+![snap](https://github.com/user-attachments/assets/1f7594ed-35b6-4a7b-82fd-ef078005d090)
+
